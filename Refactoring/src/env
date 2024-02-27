@@ -1,0 +1,10 @@
+DB_HOST=localhost:
+DB_PORT=3306/
+DATABASE=logissgtics
+TIMEZONE=?serverTimezone=Asia/Seoul
+JDBC_URL=jdbc:mysql://
+USER=root
+PASSWORD=2015krfebctp@@
+DRIVER=com.mysql.cj.jdbc.Driver
+
+ENV_LOCATION=C:\Refactoring\src\env
